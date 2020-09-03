@@ -1,2 +1,5 @@
 # hello-word
-Meu primeiro repositório
+
+Essas serão minhas mudanças
+Nova linha inserida
+Outra linha inserida
